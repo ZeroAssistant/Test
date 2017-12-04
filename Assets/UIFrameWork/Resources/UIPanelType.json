@@ -1,0 +1,35 @@
+﻿{
+  "infoList": 
+  [
+    {
+      "PanelTypeString": "ItemMessage",
+      "Path": "UIPanel/ItemMessagePanel",
+      "id": "1"
+    },
+    {
+      "PanelTypeString": "MainMenu",
+      "Path": "UIPanel/MainMenuPanel",
+      "id": "2"
+    },
+    {
+      "PanelTypeString": "Shop",
+      "Path": "UIPanel/ShopPanel",
+      "id": "3"
+    },
+    {
+      "PanelTypeString": "System",
+      "Path": "UIPanel/SystemPanel",
+      "id": "4"
+    },
+    {
+      "PanelTypeString": "Task",
+      "Path": "UIPanel/TaskPanel",
+      "id": "5"
+    },
+    {
+      "PanelTypeString": "Skill",
+      "Path": "UIPanel/SkillPanel",
+      "id": "6"
+    }
+  ]
+}
